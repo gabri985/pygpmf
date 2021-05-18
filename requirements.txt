@@ -6,3 +6,4 @@ geopandas
 descartes
 contextily
 pandas
+scipy
